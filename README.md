@@ -1,5 +1,5 @@
 # bvm_cubic_perovskite
-  The ```Predict_Cubic_Perovskite()``` class utilizes the bond valance method to provide an estimate of the rock-salt ordered primitive cubic structure for ABX<sub>3</sub> and AA<sup>'<sup>BB<sup>'<sup>X<sub>6<sub> perovskites.
+  The ```Predict_Cubic_Perovskite()``` class utilizes the bond valance method to provide an estimate of the rock-salt ordered primitive cubic structure for ABX<sub>3</sub> and AA'BB'X<sub>6<sub> perovskites.
   
 # Requirements
   - [Pymatgen](https://pymatgen.org/)
